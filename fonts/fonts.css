@@ -13,22 +13,8 @@
 }
 
 @font-face {
-    src: url(./Inter/Inter-Light.woff2),
-        url(./Inter/Inter-LightItalic.woff);
-        font-family: 'Inter';
-        font-weight: lighter;
-}
-
-@font-face {
-    src: url(./Inter/Inter-ExtraLight.woff2),
-        url(./Inter/Inter-ExtraLight.woff);
-        font-family: 'Inter';
-        font-weight: 200;
-}
-
-@font-face {
-    src: url(./Inter/Inter-ExtraBold.woff2),
-        url(./Inter/Inter-ExtraBold.woff);
+    src: url(./Inter/Inter-Black.woff2),
+        url(./Inter/Inter-Black.woff);
         font-family: 'Inter';
         font-weight: 900;
 }
