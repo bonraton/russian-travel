@@ -1,11 +1,11 @@
-.place__second-column {
+.place__content {
     display: flex;
     margin-top: 48px;
     justify-content: flex-start;
 }
 
 @media screen and (max-width: 320px) {
-    .place__second-column {
+    .place__content {
         flex-wrap: wrap;
     }
 }
