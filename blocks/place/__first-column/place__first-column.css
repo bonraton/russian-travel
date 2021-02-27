@@ -1,0 +1,10 @@
+.place__first-column {
+    display: flex;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 320px) {
+    .place__first-column {
+        flex-wrap: wrap;
+    }
+}
