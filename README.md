@@ -15,4 +15,5 @@
 - Классификация и организация файлов по БЭМ.  
 
 ## ссылка на github pages. 
-https://bonraton.github.io/russian-travel/inde.html
+
+https://bonraton.github.io/russian-travel/index.html

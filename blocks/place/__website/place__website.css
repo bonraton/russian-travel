@@ -6,8 +6,29 @@
     margin-left: 40px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1024px) {
     .place__website {
-        margin: 32px 16px 12px 16px;
+        margin: 0 auto 0 32px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__website {
+        margin: 0 auto 0 28px;
+    }
+}
+
+@media screen and (max-width: 588px) {
+    .place__website {
+        width: 90%;
+        margin: 32px auto 0 auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        margin: 32px 0 0 0;
+        text-align: left;
     }
 }

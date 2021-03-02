@@ -5,23 +5,22 @@
     margin: 0 auto;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
     .footer {
         max-width: 928px;
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .footer {
         max-width: 768px;
         margin: 0 24px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 656px) {
     .footer {
         flex-direction: column;
         margin: 0 auto 0 16px;
     }
 }
-

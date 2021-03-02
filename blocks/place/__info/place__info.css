@@ -1,10 +1,13 @@
 .place__info {
     display: flex;
     align-items: flex-start;
+    margin: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 588px) {
     .place__info {
+        max-width: 90%;
         flex-wrap: wrap;
+        margin: 0 auto;
     }
 }

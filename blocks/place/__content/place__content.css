@@ -1,11 +1,22 @@
 .place__content {
     display: flex;
-    margin-top: 48px;
+    margin: 48px auto 0 auto;
     justify-content: flex-start;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 588px) {
+    .place__content {
+        flex-wrap: wrap;
+        max-width: 90%;
+        margin: 50px auto 0 auto;
+    }
 }
 
 @media screen and (max-width: 320px) {
     .place__content {
-        flex-wrap: wrap;
+        margin: 32px 0 0 0;
+        max-width: 320px;
     }
 }
