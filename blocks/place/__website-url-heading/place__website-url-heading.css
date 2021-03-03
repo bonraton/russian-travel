@@ -1,8 +1,14 @@
 .place__website-url-heading {
     font-size: 12px;
     font-weight: 400;
-    line-height: 12px;
+    line-height: 20px;
     letter-spacing: 0.2em;
     color: #aaa;
     margin: 0 0 12px 0px;
+}
+
+@media screen and (max-width: 768px) {
+    .place__website-url-heading {
+        line-height: 12px;
+    }
 }
