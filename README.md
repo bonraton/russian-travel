@@ -1,4 +1,4 @@
-# [Russian travel](https://bonraton.github.io/russian-travel/index.htmll)
+# [Russian travel](https://bonraton.github.io/russian-travel/)
 > 3th project on [Yandex.Practikum](https://practicum.yandex.ru/profile/web/) Web-development course.
 
 # Description
