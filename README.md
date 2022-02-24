@@ -9,8 +9,8 @@ Adaptive landing wich introduce differernt natural parks in Russia.
 - Flexbox.
 - Grid.
 - Pseudo classes.
-- media requests.
-- adaptive design
+- Media requests.
+- Adaptive design
 - Nested BEM
 
 # To do
